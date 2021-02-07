@@ -8,6 +8,10 @@
     "start": "yarn build && node dist/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giljrsantos/node-typescript-api.git"
+  },
   "keywords": [
     "nodejs",
     "typescript",
